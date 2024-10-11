@@ -25,5 +25,3 @@ Make sure you have Python installed on your system. You also need to install the
 To install Pygame, run:
 ```bash
 pip install pygame
-git clone <repository-url>
-cd <project-directory>
